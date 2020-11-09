@@ -1,0 +1,32 @@
+Calculator started! Enter an expression:
+4.0
+2.0
+2.0
+-2.0
+2.0
+1.0
+8.0
+0.5
+0.0
+expected ')'
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+3.0
+a+5.0
+a+5.0
+{b=a+5.0, x=1.0, y=3.0}
+Variable list has been cleared
+x
+Error, assignments to named constants
+3.141592653589793
+Variable not valid!
+Nonvalid expression
+The variable g is reassigned
+# of expressions entered: 20
+# of successfully evaluated expressions: 18
+90.0% of expressions were successfully evaluated
+You've exited the Calculator
