@@ -4,7 +4,7 @@ import java.lang.Comparable;
 
 /**
  * @file Variable.java
- * @author Erik Norén, Andreas Bleichner
+ * @author Erik Norén,Vladislav Bertilsson
  * @date 25 Nov 2019
  * @brief Variable is class that handles the Atom-class expressions that are expressed as variables 
  *
