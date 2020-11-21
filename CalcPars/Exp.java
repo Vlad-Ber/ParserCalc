@@ -3,7 +3,7 @@ import java.util.HashMap;
 
 /**
  * @file Exp.java
- * @author Erik Norén, Andreas Bleichner
+ * @author Erik Norén, Vladislav Bertilsson
  * @date 25 Nov 2019
  * @brief Exp is a class that handles Unary-class expressions that are mathematical exponential expressions
  *
