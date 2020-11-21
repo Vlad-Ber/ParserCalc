@@ -2,7 +2,7 @@ package org.ioopm.calculator.ast;
 
 /**
  * @file Unary.java
- * @author Erik Norén, Andreas Bleichner
+ * @author Erik Norén, Vladislav Bertilsson
  * @date 25 Nov 2019
  * @brief Binary is a class that handles SymbolicExpression-class expressions that are mathematical sine, cosine, exponential, logarithmic or negation expressions 
  *
