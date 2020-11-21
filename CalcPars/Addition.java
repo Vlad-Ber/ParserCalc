@@ -2,7 +2,7 @@ package org.ioopm.calculator.ast;
 
 /**
  * @file Addition.java
- * @author Erik Norén, Andreas Bleichner
+ * @author Erik Norén, Vladislav Bertilsson
  * @date 25 Nov 2019
  * @brief Addition is a class that handles Binary-class expressions that are mathematical additions
  *
