@@ -2,7 +2,7 @@ package org.ioopm.calculator.ast;
 
 /**
  * @file Quit.java
- * @author Erik Norén, Andreas Bleichner
+ * @author Erik Norén, Vladislav Bertilsson
  * @date 25 Nov 2019
  * @brief Quit is class that handles Command-class expression Quit
  *
