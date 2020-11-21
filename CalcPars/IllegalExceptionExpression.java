@@ -3,7 +3,7 @@ import java.util.*;
 
 /**
  * @file IllegalArgumentExpression.java
- * @author Erik Norén, Andreas Bleichner
+ * @author Erik Norén, Vladislav Bertilsson
  * @date 25 Nov 2019
  * @brief IllegalArgumentExpression is a class that is used to throw one specific type of exceptions
  *
