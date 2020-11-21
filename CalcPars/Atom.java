@@ -3,7 +3,7 @@ import java.util.HashMap;
 
 /**
  * @file Atom.java
- * @author Erik Norén, Andreas Bleichner
+ * @author Erik Norén, Vladislav Bertilsson
  * @date 25 Nov 2019
  * @brief Subclass to SymbolicExpression, superclass to Variable and Constant
  *
