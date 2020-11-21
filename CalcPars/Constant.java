@@ -3,7 +3,7 @@ import java.util.HashMap;
 
 /**
  * @file Constant.java
- * @author Erik Norén, Andreas Bleichner
+ * @author Erik Norén, Vladislav Bertilsson
  * @date 25 Nov 2019
  * @brief Constant is a class that handles the Atom-class expressions that are expressed as constants (number values)
  *
