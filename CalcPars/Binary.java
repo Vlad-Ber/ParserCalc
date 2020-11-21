@@ -3,7 +3,7 @@ import java.util.HashMap;
 
 /**
  * @file Binary.java
- * @author Erik Norén, Andreas Bleichner
+ * @author Erik Norén, Vladislav Bertilsson
  * @date 25 Nov 2019
  * @brief Binary is a class that handles SymbolicExpression-class expressions that are mathematical additions, subtractions, multiplications or divisions 
  *
