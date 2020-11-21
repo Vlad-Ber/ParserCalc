@@ -3,7 +3,7 @@ import java.util.*;
 
 /**
  * @file Multiplication.java
- * @author Erik Norén, Andreas Bleichner
+ * @author Erik Norén, Vladislav Bertilsson
  * @date 25 Nov 2019
  * @brief NamedConstant is a class that handles variables that are bound and pre-defined and therefore cannot be redefined 
  *
