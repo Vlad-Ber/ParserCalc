@@ -5,7 +5,7 @@ import java.util.TreeSet;
 import java.util.Iterator;
 /**
  * @file Environment.java
- * @author Erik Norén, Andreas Bleichner
+ * @author Erik Norén, Vladislav Bertilsson
  * @date 25 Nov 2019
  * @brief Environment is a class that is used to store pre-defined variables in the calculator
  *
